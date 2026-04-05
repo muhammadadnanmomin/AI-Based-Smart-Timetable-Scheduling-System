@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartTimetable.AI/1.0.0": {
+        "dependencies": {
+          "SmartTimetable.Core": "1.0.0"
+        },
+        "runtime": {
+          "SmartTimetable.AI.dll": {}
+        }
+      },
+      "SmartTimetable.Core/1.0.0": {
+        "runtime": {
+          "SmartTimetable.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartTimetable.AI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartTimetable.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

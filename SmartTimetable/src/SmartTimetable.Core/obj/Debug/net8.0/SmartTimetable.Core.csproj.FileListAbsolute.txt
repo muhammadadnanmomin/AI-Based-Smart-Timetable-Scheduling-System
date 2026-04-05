@@ -1,0 +1,12 @@
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.AssemblyInfoInputs.cache
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.AssemblyInfo.cs
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.csproj.CoreCompileInputs.cache
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.sourcelink.json
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\bin\Debug\net8.0\SmartTimetable.Core.deps.json
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\bin\Debug\net8.0\SmartTimetable.Core.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\bin\Debug\net8.0\SmartTimetable.Core.pdb
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\refint\SmartTimetable.Core.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\SmartTimetable.Core.pdb
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.Core\obj\Debug\net8.0\ref\SmartTimetable.Core.dll

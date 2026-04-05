@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8000/days";
+const API_URL = "http://localhost:5000/days";
 
 export const getDays = async () => {
   const res = await axios.get(API_URL);

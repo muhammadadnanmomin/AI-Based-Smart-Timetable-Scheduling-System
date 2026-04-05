@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EF54B881-078C-478C-A745-685F96BE9487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTimetable.API", "src\SmartTimetable.API\SmartTimetable.API.csproj", "{A922F6F7-749A-4175-B0B6-6CFE82C90E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTimetable.Core", "src\SmartTimetable.Core\SmartTimetable.Core.csproj", "{358E5054-A167-4EA0-9643-295DCFEEAB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTimetable.Infrastructure", "src\SmartTimetable.Infrastructure\SmartTimetable.Infrastructure.csproj", "{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTimetable.AI", "src\SmartTimetable.AI\SmartTimetable.AI.csproj", "{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A922F6F7-749A-4175-B0B6-6CFE82C90E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A922F6F7-749A-4175-B0B6-6CFE82C90E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A922F6F7-749A-4175-B0B6-6CFE82C90E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A922F6F7-749A-4175-B0B6-6CFE82C90E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358E5054-A167-4EA0-9643-295DCFEEAB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358E5054-A167-4EA0-9643-295DCFEEAB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358E5054-A167-4EA0-9643-295DCFEEAB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358E5054-A167-4EA0-9643-295DCFEEAB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A922F6F7-749A-4175-B0B6-6CFE82C90E8B} = {EF54B881-078C-478C-A745-685F96BE9487}
+		{358E5054-A167-4EA0-9643-295DCFEEAB6B} = {EF54B881-078C-478C-A745-685F96BE9487}
+		{CD6528F2-C68F-4EC6-B5AF-6F0624ED6CBC} = {EF54B881-078C-478C-A745-685F96BE9487}
+		{F54AF34B-8E4C-4EAB-834B-7DF79B81CA32} = {EF54B881-078C-478C-A745-685F96BE9487}
+	EndGlobalSection
+EndGlobal

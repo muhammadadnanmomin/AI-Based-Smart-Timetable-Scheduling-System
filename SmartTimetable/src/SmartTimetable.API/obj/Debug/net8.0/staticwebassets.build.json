@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hGcmjrccLWp5ZXfQ+SwSSwWKrA1lGu3l0lHUAOsYc6c=",
+  "Source": "SmartTimetable.API",
+  "BasePath": "_content/SmartTimetable.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

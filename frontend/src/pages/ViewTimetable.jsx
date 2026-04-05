@@ -18,7 +18,7 @@ function ViewTimetable() {
   const loadTimetable = async () => {
     try {
       setLoading(true);
-      const res = await axios.get("http://localhost:8000/timetable/load");
+      const res = await axios.get("http://localhost:5000/timetable/load");
 
       setData({
         status: "success",
@@ -37,7 +37,7 @@ function ViewTimetable() {
 
   const autoFix = async () => {
     try {
-      const res = await axios.post("http://localhost:8000/auto-fix", {
+      const res = await axios.post("http://localhost:5000/auto-fix", {
         timetable: data.timetable,
       });
 

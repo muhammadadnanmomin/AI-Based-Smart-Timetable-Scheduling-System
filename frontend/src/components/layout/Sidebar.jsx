@@ -23,7 +23,7 @@ function Sidebar() {
   const location = useLocation();
 
   return (
-    <aside className="w-64 border-r border-slate-200 bg-white p-4 hidden md:flex flex-col shrink-0">
+    <aside className="w-64 border-r border-slate-200 bg-white p-4 hidden md:flex flex-col shrink-0 overflow-y-auto">
       <div className="flex items-center gap-2 px-2 mb-8 mt-2">
         <div className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center shrink-0">
           <CalendarDays className="w-5 h-5 text-white" />

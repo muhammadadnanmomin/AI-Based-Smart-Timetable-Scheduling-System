@@ -14,12 +14,16 @@ function Generate() {
       setLoading(true);
       setResult(null);
 
-      const res = await axios.post("http://localhost:8000/generate-timetable");
+      const res = await axios.post("http://localhost:5000/generate-timetable");
       setResult(res.data);
 
-      toast({ title: "Timetable generated successfully!" });
+      if (res.data.status === "success") {
+        toast({ title: "Timetable generated successfully!" });
+      } else {
+        toast({ title: "Generation failed", description: res.data.message || "Failed to generate timetable", variant: "destructive" });
+      }
     } catch (err) {
-      toast({ title: "Failed to generate timetable" });
+      toast({ title: "Error connecting to server", variant: "destructive" });
     } finally {
       setLoading(false);
     }

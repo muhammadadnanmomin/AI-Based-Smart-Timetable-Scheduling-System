@@ -1,0 +1,16 @@
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\bin\Debug\net8.0\SmartTimetable.AI.deps.json
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\bin\Debug\net8.0\SmartTimetable.AI.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\bin\Debug\net8.0\SmartTimetable.AI.pdb
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\bin\Debug\net8.0\SmartTimetable.Core.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\bin\Debug\net8.0\SmartTimetable.Core.pdb
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.csproj.AssemblyReference.cache
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.AssemblyInfoInputs.cache
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.AssemblyInfo.cs
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.csproj.CoreCompileInputs.cache
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.sourcelink.json
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTim.E9642ED0.Up2Date
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\refint\SmartTimetable.AI.dll
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\SmartTimetable.AI.pdb
+C:\Project\AI-Based-Smart-Timetable-Scheduling-System\SmartTimetable\src\SmartTimetable.AI\obj\Debug\net8.0\ref\SmartTimetable.AI.dll

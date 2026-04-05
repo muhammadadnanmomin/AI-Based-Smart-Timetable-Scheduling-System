@@ -1,0 +1,6 @@
+@SmartTimetable.API_HostAddress = http://localhost:5081
+
+GET {{SmartTimetable.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8000/teacher-preferences";
+const API_URL = "http://localhost:5000/teacher-preferences";
 
 export const getPreferences = async () => {
   const res = await axios.get(API_URL);

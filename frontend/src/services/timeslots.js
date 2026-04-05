@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8000/time-slots";
+const API_URL = "http://localhost:5000/time-slots";
 
 export const getTimeSlots = async () => {
   const res = await axios.get(API_URL);
