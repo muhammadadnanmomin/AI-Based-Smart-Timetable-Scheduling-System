@@ -1,0 +1,13 @@
+# Ignore project documents
+ERD_Smart_Timetable.drawio
+Project Synopsis.docx
+Project Synopsis.pdf
+documentation.docx
+documentation_f.docx
+documentation_f.pdf
+documentation_final.pdf
+erd.pdf
+walkthrough.md
+
+# Ignore images
+Screenshot 2026-04-05 121018.jpg
